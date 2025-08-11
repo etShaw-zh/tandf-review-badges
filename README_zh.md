@@ -1,3 +1,4 @@
+[English](README.md) | 简体中文
 # T&F Dashboard 审稿人邀请徽章
 
 [![许可证: MIT](https://img.shields.io/badge/许可证-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -11,7 +12,7 @@
 
 该用户脚本通过在界面中自动显示审稿人邀请时间戳和修订版本号来增强 T&F Dashboard 功能。帮助作者快速查看每轮投稿中审稿人的邀请时间。
 
-![功能截图](feature.jpg)
+![功能截图](feature.png)
 
 ## 徽章格式
 

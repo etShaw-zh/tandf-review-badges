@@ -1,3 +1,4 @@
+English | [简体中文](README_zh.md)
 # T&F Dashboard Reviewer Invite Badges
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -11,7 +12,7 @@ A userscript that displays reviewer invite badges next to "Out for Review" statu
 
 This userscript enhances the T&F Dashboard by automatically showing reviewer invitation timestamps and revision numbers directly in the interface. It helps authors quickly see when reviewers were invited for each submission round.
 
-![Feature Screenshot](feature.jpg)
+![Feature Screenshot](feature.png)
 
 ## Badge Format
 
