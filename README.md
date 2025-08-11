@@ -1,12 +1,17 @@
 # T&F Dashboard Reviewer Invite Badges
 
-A userscript that displays reviewer invite badges next to "Out for Review" status in Taylor & Francis Dashboard submission cards.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://greasyfork.org/zh-CN/scripts/545460-t-f-dashboard-reviewer-invite-badges)
+[![Install on Greasy Fork](https://img.shields.io/badge/Install%20on-Greasy%20Fork-blue.svg)](https://greasyfork.org/zh-CN/scripts/545460-t-f-dashboard-reviewer-invite-badges)
+[![Greasy Fork Downloads](https://img.shields.io/greasyfork/dt/545460?label=Downloads)](https://greasyfork.org/zh-CN/scripts/545460-t-f-dashboard-reviewer-invite-badges)
 
-![Feature Screenshot](feature.jpg)
+A userscript that displays reviewer invite badges next to "Out for Review" status in Taylor & Francis Dashboard submission cards.
 
 ## Purpose
 
 This userscript enhances the T&F Dashboard by automatically showing reviewer invitation timestamps and revision numbers directly in the interface. It helps authors quickly see when reviewers were invited for each submission round.
+
+![Feature Screenshot](feature.jpg)
 
 ## Badge Format
 
@@ -18,13 +23,19 @@ Examples:
 
 ## Installation
 
-### Tampermonkey (Chrome/Edge)
+### Quick Install (Recommended)
+1. **[Install directly from Greasy Fork](https://greasyfork.org/zh-CN/scripts/545460-t-f-dashboard-reviewer-invite-badges)**
+2. Your userscript manager (Tampermonkey/Greasemonkey) will handle the installation automatically
+
+### Manual Installation
+
+#### Tampermonkey (Chrome/Edge)
 1. Install [Tampermonkey extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 2. Copy the contents of `main.js`
 3. Create a new userscript in Tampermonkey and paste the code
 4. Save and enable the script
 
-### Greasemonkey (Firefox)
+#### Greasemonkey (Firefox)
 1. Install [Greasemonkey extension](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 2. Copy the contents of `main.js`  
 3. Create a new userscript in Greasemonkey and paste the code

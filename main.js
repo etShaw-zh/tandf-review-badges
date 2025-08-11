@@ -9,6 +9,7 @@
 // @run-at       document-start
 // @grant        none
 // @icon         https://static.rp.tandfonline.com/tandf/images/favicon.ico
+// @license      MIT
 // ==/UserScript==
 
 (function () {
